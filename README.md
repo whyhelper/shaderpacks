@@ -10,4 +10,9 @@ There are many Minecraft shaders these days, all created by independent programm
 [How to Install Optifine](https://minecraftshader.com/how-to-install-optifine/).
 [How to install Shaders](https://minecraftshader.com/how-to-install-shaders-in-minecraft/).
 
-Improve minecraft graphics by up to 100%
+Improve Minecraft graphics by up to 100%
+
+*Screenshots*
+
+![image](/2021-06-10_11.16.47.png)
+![image](/2021-06-10_18.58.58.png)
